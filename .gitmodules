@@ -4,3 +4,18 @@
 [submodule "projects/fa22-proj5-AllenCaoo"]
 	path = projects/fa22-proj5-AllenCaoo
 	url = https://github.com/cs186-student/fa22-proj5-AllenCaoo
+[submodule "projects/fa22-proj4-AllenCaoo"]
+	path = projects/fa22-proj4-AllenCaoo
+	url = https://github.com/cs186-student/fa22-proj4-AllenCaoo
+[submodule "projects/fa22-proj3-AllenCaoo"]
+	path = projects/fa22-proj3-AllenCaoo
+	url = https://github.com/cs186-student/fa22-proj3-AllenCaoo
+[submodule "projects/fa22-proj2-AllenCaoo"]
+	path = projects/fa22-proj2-AllenCaoo
+	url = https://github.com/cs186-student/fa22-proj2-AllenCaoo
+[submodule "projects/fa22-proj1-AllenCaoo"]
+	path = projects/fa22-proj1-AllenCaoo
+	url = https://github.com/cs186-student/fa22-proj1-AllenCaoo
+[submodule "projects/fa22-proj0-AllenCaoo"]
+	path = projects/fa22-proj0-AllenCaoo
+	url = https://github.com/cs186-student/fa22-proj0-AllenCaoo
