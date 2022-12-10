@@ -1,0 +1,6 @@
+[submodule "projects/fa22-proj6-AllenCaoo"]
+	path = projects/fa22-proj6-AllenCaoo
+	url = https://github.com/cs186-student/fa22-proj6-AllenCaoo
+[submodule "projects/fa22-proj5-AllenCaoo"]
+	path = projects/fa22-proj5-AllenCaoo
+	url = https://github.com/cs186-student/fa22-proj5-AllenCaoo
